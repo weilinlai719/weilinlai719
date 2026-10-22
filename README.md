@@ -25,15 +25,15 @@ const developer = {
 •	💬 問我關於：React, Node.js, System Design
 •	📫 聯絡我：your.email@example.com
 📈 GitHub 統計
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=你的username&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的username&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的username&layout=compact&theme=tokyonight&hide_border=true" /> </p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=weilinlai719&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=weilinlai719&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weilinlai719&layout=compact&theme=tokyonight&hide_border=true" /> </p> 
 🏆 GitHub 獎杯
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=你的username&theme=tokyonight&no-frame=true&row=1&column=6" /> </p> 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=weilinlai719&theme=tokyonight&no-frame=true&row=1&column=6" /> </p> 
 📊 本週開發時間
 <!--START_SECTION:waka--> <!--END_SECTION:waka--> 
 ________________________________________
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=你的username&color=blueviolet&style=flat-square&label=Profile+Views" /> </p> <p align="center">⭐ 如果喜歡我的專案，給個 Star 吧！</p> ``` 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=weilinlai719&color=blueviolet&style=flat-square&label=Profile+Views" /> </p> <p align="center">⭐ 如果喜歡我的專案，給個 Star 吧！</p> ``` 
 範本 3：極簡風格
-### Hey 👋 I'm [你的名字]
+### Hey 👋 I'm [Weilin Lai]
 
 Full-stack developer passionate about building things that matter.
 
