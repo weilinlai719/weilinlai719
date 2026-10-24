@@ -33,8 +33,8 @@
 ### 📫 聯絡我
 
 <p>
-  <a href="https://www.weilinlai.duckdns.org/"><img src="https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:boblai719@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://weilinlai.cc.cd/"><img src="https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:weilinlia@weilinlai.cc.cd"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.instagram.com/wei_lin_lai"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
