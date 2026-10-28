@@ -28,6 +28,7 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+[![XERJ Corpus Hub 貢獻者](https://hub.xerj.org/contributors/weilinlai719/badge.svg)](https://hub.xerj.org/contributors/weilinlai719)
 
 
 ### 📫 聯絡我
@@ -47,5 +48,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weilinlai719&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-[![XERJ Corpus Hub 貢獻者](https://hub.xerj.org/contributors/weilinlai719/badge.svg)](https://hub.xerj.org/contributors/weilinlai719)
 <p align="center">⭐ 如果喜歡我的專案，給個 Star 吧！</p>
