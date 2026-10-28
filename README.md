@@ -47,5 +47,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weilinlai719&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
+[![XERJ Corpus Hub 貢獻者](https://hub.xerj.org/contributors/weilinlai719/badge.svg)](https://hub.xerj.org/contributors/weilinlai719)
 <p align="center">⭐ 如果喜歡我的專案，給個 Star 吧！</p>
